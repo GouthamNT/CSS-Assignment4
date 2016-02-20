@@ -1,0 +1,25 @@
+#content {
+    width:80%;
+    margin: 0 auto;
+}
+
+.heading {
+    position: relative;
+    margin: 10px auto;
+}
+
+.img {
+    position: absolute;
+    top :0;
+    left: 55px;
+    width: 140px;
+    height: 40px;
+    z-index: -1;
+    opacity: .6;
+}
+
+#info {
+    top: 0;
+    padding:5px;
+    margin-top: 5px;
+}
